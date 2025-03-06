@@ -1,0 +1,5 @@
+with open("report.txt", "w") as file:
+    file.write("Password Manager Evaluation Report\n")
+    file.write("Objectives: Secure password storage and generation.\n")
+    file.write("Features: Encryption, 2FA, Master Password.\n")
+    file.write("Conclusion: Successfully enhanced cybersecurity.\n")
